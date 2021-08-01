@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/PinTool"/>
+    <qresource prefix="/qss">
+        <file>res/styleSheet.qss</file>
+    </qresource>
+</RCC>
